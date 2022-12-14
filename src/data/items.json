@@ -1,0 +1,26 @@
+[
+   {
+     "id": 1,
+     "name": "Bag",
+     "price": 10.99,
+     "imgUrl": "/imgs/bag.jpg"
+   },
+   {
+     "id": 2,
+     "name": "Laptop",
+     "price": 1199,
+     "imgUrl": "/imgs/laptop.jpg"
+   },
+   {
+     "id": 3,
+     "name": "Headset",
+     "price": 200,
+     "imgUrl": "/imgs/headphone.jpg"
+   },
+   {
+     "id": 4,
+     "name": "Shoe",
+     "price": 140,
+     "imgUrl": "/imgs/shoe.jpg"
+   }
+ ]
